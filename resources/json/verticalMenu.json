@@ -1,0 +1,23 @@
+{
+    "menu": [
+        {
+            "url": "/",
+            "name": "Dashboard",
+            "slug": "dashboard",
+            "badge": "2",
+            "badgeClass": "badge badge-warning badge-pill float-right",
+            "icon": "feather icon-home"
+        },
+        {
+            "url": "",
+            "navheader": "Registros",
+            "icon": ""
+        },
+        {
+            "url": "contactos",
+            "name": "Contactos",
+            "icon": "feather icon-life-buoy",
+            "i18n": "nav.raise_support"
+        }
+    ]
+}
