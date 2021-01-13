@@ -13,6 +13,7 @@ class ContactoController extends Controller
      */
     public function index()
     {
+        $var=1;
         $pageConfigs = [
             'pageHeader' => false,
             'theme' => 'dark',
